@@ -45,3 +45,10 @@ button {
     border: none;
     margin-left: 10px;
 }
+
+.inputColor{
+    background-color: transparent;
+    border: none;
+    width: 40px;
+    height: 3.2vh;
+}

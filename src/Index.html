@@ -3,37 +3,78 @@
 
 <div class="container">
     <div class="bar">
-        <ul>
+        <ul>        
             <li class="bar-list">
-                <button onclick="bold()" type="button">
+                <button onclick="insertText()">
+                    <i class="fas fa-file-alt fa-2x"></i>
+                </button>
+            </li>
+            <li class="bar-list">
+                <button onclick="bold()">
                     <i class=' fas fa-bold fa-2x'></i>
                 </button>
             </li>
             <li class="bar-list">
-                <button onclick="italic()" type="button">
+                <button onclick="italic()">
                     <i class='fas fa-italic fa-2x'></i>
                 </button>
             </li>
             <li class="bar-list">
-                <button onclick="italic()" type="button">
+                <button onclick="underline()">
+                    <i class="fas fa-underline fa-2x"></i>
+                </button>
+            </li>
+
+            <li class="bar-list">
+                <button onclick="indent()">
+                    <i class="fas fa-indent fa-2x"></i>
+                </button> 
+            </li>
+            <li class="bar-list">
+                <button onclick="outdent()">
+                    <i class="fas fa-outdent fa-2x"></i>
+                </button> 
+            </li>  
+            <li class="bar-list">
+                <button onclick="alignleft()">
                     <i class="fas fa-align-left fa-2x"></i>
                 </button>
             </li>
             <li class="bar-list">
-                <button onclick="italic()" type="button">
+                <button onclick="alignjustify()">
                     <i class="fas fa-align-justify fa-2x"></i>
                 </button>
             </li>
             <li class="bar-list">
-                <button onclick="italic()" type="button">
+                <button onclick="aligncenter()">
                     <i class="fas fa-align-center fa-2x"></i>
                 </button>
             </li>
             <li class="bar-list">
-                <button onclick="italic()" type="button">
+                <button onclick="alignright()">
                     <i class="fas fa-align-right fa-2x"></i>
                 </button>
-            </li>          
+            </li>
+            <li class="bar-list">
+                <button onclick="insertImage()">
+                    <i class="fas fa-images fa-2x"></i>
+                </button>
+            </li> 
+            <li class="bar-list">
+                <button onclick="link()">
+                    <i class="fas fa-link fa-2x"></i>
+                </button>
+            </li>
+            <li class="bar-list">
+                <button onclick="unlink()">
+                    <i class="fas fa-unlink fa-2x"></i>
+                </button>
+            </li>
+            <li class="bar-list">
+                <button onclick="foreColor()">
+                    <input type="color" class="inputColor" id="color"> 
+                </button>
+            </li>  
         </ul>
     </div>
     <div class="editor" contenteditable="true"></div>
