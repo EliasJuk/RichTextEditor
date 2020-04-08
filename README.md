@@ -1,7 +1,6 @@
-# RichTextEditor
-<p align="center">
-    Rich Text Editor
-</p>
+<h1 align="center">
+    <img alt="bold" title="#bold" src="texteditor/bold.png"/>
+</h1>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/EliasJuk/RichTextEditor">	
