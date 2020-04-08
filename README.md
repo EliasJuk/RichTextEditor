@@ -5,6 +5,10 @@
 
 <p>E mais simples que você imagina criar um editor de textos (Rich Text Editor), o exemplo a seguir mostra como aplicar um negrito (bold) a uma faixa de texto, a parir desde exemplo tenho certeza que você irá conseguir criar o seu com mais funcionalidades.</p>
 
+<h1 align="center">
+    <img alt="bold" title="#bold" src="readme/bold.png"/>
+</h1>
+
 Siga os passos a baixo:
 
 
