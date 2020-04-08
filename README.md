@@ -20,7 +20,8 @@
 
 <p align="center">
   <a href="#-How-To-Make">How To Make</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
+  <a href="#memo-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#dart-Links-para-ajudar">Links</a>
 </p>
 
 
@@ -92,11 +93,13 @@ li {
 
 <p>&nbsp;&nbsp;</p>
 
-## 🎯 Links para ajudar
+## :dart: Links para ajudar
 
 > https://developer.mozilla.org/pt-BR/docs/Web/API/Document/execCommand
 
 ---
+
+<p>&nbsp;&nbsp;</p>
 
 ## :memo: License
 
