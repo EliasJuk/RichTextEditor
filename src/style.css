@@ -7,23 +7,11 @@
     font-family: 'Roboto', sans-serif;
 }
 
-div.container {
-    width: 50vw;
-    height: 50vh;
-    margin: 0 auto;
-    background-color: #dedede;
-}
-
 div.editor {
-    width: 100%;
-    height: 90%;
+    width: 30vw;
+    height: 30vh;
     border: 1px solid black;
     background-color: #fff;
-}
-
-div.bar {
-    height: 10%;
-    border: 1px solid black;
 }
 
 li {

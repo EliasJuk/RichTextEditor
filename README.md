@@ -10,26 +10,17 @@ Siga os passos a baixo:
 
 ### 📝 Index.html
 ```bash
-#Importa as fontes do Font Awesome
+#Importa icones do Font Awesome
 <script src="https://kit.fontawesome.com/d83a960c7e.js" crossorigin="anonymous"></script>
-
-#Aplica o estilo a pagina do editor
 <link rel="stylesheet" href="style.css"/>
 
-<div class="container">
-    <div class="bar">
-        <ul>
-            <li class="bar-list">
-                <button onclick="bold()" type="button">
-                    <i class=' fas fa-bold fa-2x'></i>
-                </button>
-            </li>     
-        </ul>
-    </div>
-    <div class="editor" contenteditable="true"></div>
-</div>
 
-#Funções
+<button onclick="bold()">
+    <i class=' fas fa-bold fa-2x'></i>
+</button>
+
+
+<div class="editor" contenteditable="true"></div>
 <script src="script.js"></script>
 ```
 
@@ -57,17 +48,9 @@ function bold(){
     font-family: 'Roboto', sans-serif;
 }
 
-#Posiciona ao cedntro da tela
-div.container {
-    width: 50vw;
-    height: 50vh;
-    margin: 0 auto;
-}
-
-#Torna visivel a div ao centro da tela
 div.editor {
-    width: 100%;
-    height: 90%;
+    width: 30vw;
+    height: 30vh;
     border: 1px solid black;
     background-color: #fff;
 }
