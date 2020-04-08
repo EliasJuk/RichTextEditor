@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="bold" title="#bold" src="texteditor/bold.png"/>
+    <img alt="bold" title="#bold" src="readme/texteditor.png"/>
 </h1>
 
 <p align="center">
