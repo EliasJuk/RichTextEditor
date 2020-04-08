@@ -21,6 +21,7 @@
 
 <p align="center">
   <a href="#-How-To-Make">How To Make</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
 </p>
 
 
@@ -88,3 +89,9 @@ li {
     list-style-type: none;
 }
 ```
+
+---
+
+## :memo: License
+
+This project is under the MIT license. See the [LICENSE](LICENSE.md) for details.
