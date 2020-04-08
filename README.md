@@ -88,6 +88,11 @@ li {
     list-style-type: none;
 }
 ```
+---
+
+## 🎯 Links para ajudar
+
+> https://developer.mozilla.org/pt-BR/docs/Web/API/Document/execCommand
 
 ---
 
