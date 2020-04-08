@@ -90,6 +90,8 @@ li {
 ```
 ---
 
+<p>&nbsp;&nbsp;</p>
+
 ## 🎯 Links para ajudar
 
 > https://developer.mozilla.org/pt-BR/docs/Web/API/Document/execCommand
