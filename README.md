@@ -1,5 +1,7 @@
 # RichTextEditor
-**Rich Text Editor**
+<p align="center">
+    Rich Text Editor
+</p>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/EliasJuk/RichTextEditor">	
@@ -17,8 +19,14 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen"> 
 <p>
 
+<p align="center">
+  <a href="#-How-To-Make">How To Make</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
 
-## ❔ Como criar um Rich Text Editor - EDITOR DE TEXTOS
+
+## ❔ How To Make
+
+### ❔ Como criar um editor de texto - Rich Text Editor
 
 <p>E mais simples que você imagina criar um editor de textos (Rich Text Editor), o exemplo a seguir mostra como aplicar um negrito (bold) a uma faixa de texto, a parir desde exemplo tenho certeza que você irá conseguir criar o seu com mais funcionalidades.</p>
 
